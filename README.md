@@ -1,4 +1,10 @@
-## Hi there 👋
+### **Hi there, my name is Simar!⭐**
+
+I’m currently working on my MS degree with a marketing analytics focus. I love tackling challenges related to data visualization and market research! 
+
+I believe in the power of teamwork and am always looking for opportunities to learn from others and contribute my expertise to projects. Feel free to reach out to me about marketing analytics, data visualization, or even just to chat about the latest trends in cosmetics and skincare!💄
+
+📫Reach me on linkedin [@simar-bhuee](https://www.linkedin.com/in/simar-bhuee/)
 
 <!--
 **simar-bhuee/simar-bhuee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
